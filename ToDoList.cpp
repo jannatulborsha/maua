@@ -25,7 +25,7 @@ class ClassRoutine
     {
         return wakeUpTime;
     }
-}
+};
 
 int main()
 {
